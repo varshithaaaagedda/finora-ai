@@ -1,0 +1,28 @@
+# UGREEN AI NAS Skill Toolkit (strictly excluded from submission repository)
+uliya-skill-kit/
+
+# Operating System artifacts
+Thumbs.db
+.DS_Store
+*.tmp
+
+# Logs and audit reports
+*.log
+checker-output.txt
+
+# Python & Node artifacts
+__pycache__/
+*.pyc
+node_modules/
+
+# Secrets and credentials
+*.key
+*.pem
+*.env
+
+# Local working copies (curated versions organized under skill/, submission/, media/)
+/FINORA-AI-Pretest.zip
+/FINORA-AI-Project-Proposal.pdf
+/FINORA-AI-Thumbnail.jpg
+/FINORA-AI-Thumbnail.png
+/finora-ai/
